@@ -1,8 +1,8 @@
-# Tuya IoT App SDK Core
+# Tuya Industry App SDK
 
-Tuya IoT App SDK Core is an important part of the Tuya SaaS Development Framework product series. It provides basic functions such as device network configuration, device control, and asset management of Tuya Open API.
+Tuya Industry App SDK is an important part of the Tuya SaaS Development Framework product series. It provides basic functions such as device network configuration, device control, and asset management of Tuya Open API.
 
-IoT App SDK Core has the following key features:
+Industry App SDK has the following key features:
 
 - User Module (Login, Logout)
 - Asset Module (Asset query, selection)
@@ -11,9 +11,9 @@ IoT App SDK Core has the following key features:
 
 ## API Reference Docs
 
-- iOS IoT App SDK API Reference: <https://tuya.github.io/tuya-ios-iot-app-sdk-sample/>
+- iOS Industry App SDK API Reference: <https://tuya.github.io/tuya-ios-iot-app-sdk-sample/>
 
-- Android IoT App SDK API Reference: <https://tuya.github.io/tuya-android-iot-app-sdk-sample/>
+- Android Industry App SDK API Reference: <https://tuya.github.io/tuya-android-iot-app-sdk-sample/>
 
 ## Quick Start
 
@@ -31,4 +31,4 @@ You can provide feedback on your issue via GitHub Issue or [Ticket](https://serv
 
 ## License
 
-Tuya IoT App SDK Core is available under the MIT license. Please see the [LICENSE](https://github.com/tuya/tuya-iot-app-sdk-core/blob/main/LICENSE) file for more info.
+Tuya Industry App SDK is available under the MIT license. Please see the [LICENSE](https://github.com/tuya/tuya-iot-app-sdk-core/blob/main/LICENSE) file for more info.
