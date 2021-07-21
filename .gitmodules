@@ -4,3 +4,9 @@
 [submodule "tuya-android-iot-app-sdk-sample"]
 	path = tuya-android-iot-app-sdk-sample
 	url = git@github.com:tuya/tuya-android-iot-app-sdk-sample.git
+[submodule "tuya-ios-industry-app-sdk-sample"]
+	path = tuya-ios-industry-app-sdk-sample
+	url = git@github.com:tuya/tuya-ios-industry-app-sdk-sample.git
+[submodule "tuya-android-industry-app-sdk-sample"]
+	path = tuya-android-industry-app-sdk-sample
+	url = git@github.com:tuya/tuya-android-industry-app-sdk-sample.git
